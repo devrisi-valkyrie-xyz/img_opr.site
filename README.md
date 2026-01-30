@@ -1,2 +1,2 @@
 # img_opr.site
-Perform operations on imagen . 
+Perform operations on image . 
